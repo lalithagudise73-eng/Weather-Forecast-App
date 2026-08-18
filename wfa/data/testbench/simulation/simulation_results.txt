@@ -1,0 +1,43 @@
+========================================
+        WEATHER FORECAST APP
+========================================
+
+INPUT CITY:
+Hyderabad
+
+----------------------------------------
+
+CURRENT WEATHER
+
+Temperature : 28 °C
+Humidity    : 72%
+Wind Speed  : 12 km/h
+Condition   : Cloudy
+
+----------------------------------------
+
+5-DAY FORECAST
+
+Monday
+Temperature : 30 °C
+Condition   : Cloudy
+
+Tuesday
+Temperature : 31 °C
+Condition   : Rainy
+
+Wednesday
+Temperature : 30 °C
+Condition   : Cloudy
+
+Thursday
+Temperature : 32 °C
+Condition   : Sunny
+
+Friday
+Temperature : 31 °C
+Condition   : Cloudy
+
+========================================
+       SIMULATION COMPLETED
+========================================

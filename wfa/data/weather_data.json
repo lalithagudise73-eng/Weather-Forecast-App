@@ -1,0 +1,69 @@
+{
+    "Hyderabad": {
+        "temperature": 28,
+        "humidity": 72,
+        "wind": 12,
+        "condition": "Cloudy",
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 30,
+                "condition": "Cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 31,
+                "condition": "Rainy"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 30,
+                "condition": "Cloudy"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 32,
+                "condition": "Sunny"
+            },
+            {
+                "day": "Friday",
+                "temperature": 31,
+                "condition": "Cloudy"
+            }
+        ]
+    },
+
+    "Vijayawada": {
+        "temperature": 30,
+        "humidity": 68,
+        "wind": 10,
+        "condition": "Sunny",
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 31,
+                "condition": "Sunny"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 32,
+                "condition": "Cloudy"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 30,
+                "condition": "Rainy"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 31,
+                "condition": "Sunny"
+            },
+            {
+                "day": "Friday",
+                "temperature": 32,
+                "condition": "Sunny"
+            }
+        ]
+    }
+}
